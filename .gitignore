@@ -1,0 +1,16 @@
+.idea
+/back/logs/*
+# Ignore front-related files and directories
+front/node_modules/
+front/.yarn-integrity
+front/package-lock.json
+front/...
+
+# Ignore back-related files and directories
+back/node_modules/
+back/.yarn-integrity
+back/...
+back/.env
+imageUpload
+node_modules
+videoUpload
